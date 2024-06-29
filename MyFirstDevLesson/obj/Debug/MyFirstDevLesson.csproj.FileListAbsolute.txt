@@ -1,0 +1,7 @@
+D:\newsource\MyFirstDevLesson\MyFirstDevLesson\bin\Debug\MyFirstDevLesson.exe.config
+D:\newsource\MyFirstDevLesson\MyFirstDevLesson\bin\Debug\MyFirstDevLesson.exe
+D:\newsource\MyFirstDevLesson\MyFirstDevLesson\bin\Debug\MyFirstDevLesson.pdb
+D:\newsource\MyFirstDevLesson\MyFirstDevLesson\obj\Debug\MyFirstDevLesson.csproj.AssemblyReference.cache
+D:\newsource\MyFirstDevLesson\MyFirstDevLesson\obj\Debug\MyFirstDevLesson.csproj.CoreCompileInputs.cache
+D:\newsource\MyFirstDevLesson\MyFirstDevLesson\obj\Debug\MyFirstDevLesson.exe
+D:\newsource\MyFirstDevLesson\MyFirstDevLesson\obj\Debug\MyFirstDevLesson.pdb
